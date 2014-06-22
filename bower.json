@@ -1,11 +1,11 @@
 {
   "name": "angular-ui-router-example",
-  "description": "Angular UI Router Example",
+  "description": "AngularUI Router Example",
   "version": "0.0.0",
   "authors": [
-    ""
+    "Dane Petersen"
   ],
-  "license": "",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",

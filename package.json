@@ -1,12 +1,12 @@
 {
   "name": "angular-ui-router-example",
-  "description": "Angular UI Router Example",
+  "description": "AngularUI Router Example",
   "version": "0.0.0",
-  "author": "",
+  "author": "Dane Petersen",
   "licenses": [
     {
-      "type": "",
-      "url": ""
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
     }
   ],
   "repository": {
