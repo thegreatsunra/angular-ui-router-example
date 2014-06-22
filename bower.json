@@ -1,0 +1,21 @@
+{
+  "name": "angular-ui-router-example",
+  "description": "Angular UI Router Example",
+  "version": "0.0.0",
+  "authors": [
+    ""
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {}
+}
